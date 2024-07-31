@@ -21,7 +21,7 @@
                 <input type="text" name="mobile" id="mobile" class="form-control" value="{{ $teacher->mobile }}">
             </div>
             <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-success">
+                <input type="submit" value="Update" class="btn btn-success">
             </div>
         </form>
     </div>
